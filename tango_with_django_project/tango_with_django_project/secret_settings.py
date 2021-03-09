@@ -1,0 +1,1 @@
+SECRET_KEY = 'tui_xz1pg!7-)_w-g(8y3%nz$kka%lvsh3@0ky*t5%36eornk*'
